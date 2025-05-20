@@ -1,0 +1,12 @@
+👤 Summer is coming?
+🤖  Réponse : En fonction du contexte, je ne peux pas prévoir l'avenir, mais en utilisant la prédiction météorologique pour les régions où se trouve Capgemini, il y aura bientôt l'été dans certaines parties du monde. Je vous conseille de consulter votre service météorologique national pour des informations plus précises sur vos lieux respectifs.
+
+👤 why
+🤖  Bonjour ! Je suis un assistant intelligent conçu pour aider les équipes Capgemini. Bien que je ne sois pas un être vivant, j'ai été créé pour répondre à vos questions et vous offrir des informations claires et précises. Si vous avez une question particulière, n'hésitez pas à la poser !
+
+👤 gg
+🤖  Je suis un assistant AI de Capgemini, je suis là pour vous aider à trouver des solutions efficaces pour vos questions techniques et business. Comment puis-je vous aider aujourd'hui?
+
+👤 gg
+🤖 Je suis un Assistant Intelligent pour Capgemini et je suis là pour vous aider dans vos demandes. Vous avez tapé "gg", je n'ai pas pu identifier la question que vous souhaitez poser. Pourquoi ne pas me donner plus de détails ou m'expliquer ce que vous cherchez afin que je puisse vous fournir une réponse précise et professionnelle ?
+

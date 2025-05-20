@@ -1,0 +1,15 @@
+👤 hello
+
+🤖 Bonjour ! Je suis un assistant IA pour Capgemini. Comment peut-je vous aider aujourd'hui ?
+
+👤 c est quoi les metiers les plus demandes ?
+
+🤖 Les metiers les plus demandes à Capgemini sont :
+
+- Software Engineer 
+- Analyste de données
+- Directeur de projet
+- Directeur de produit
+- Directeur de recherche
+- Directeur de développement logiciel
+

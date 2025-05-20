@@ -1,0 +1,10 @@
+👤 c est quoi la difference entre developpement et test en domaine embarque
+
+🤖  Dans le domaine d'embarcation, le développement et les tests présentent des différences importantes :
+
+- Le développement est la phase où l'on conçoit, met en œuvre et intègre une solution informatique pour répondre à un besoin technique. Cela comprend la création de logiciels spécifiques au domaine embarqué, la mise en place d'algorithmes complexes ou encore la conception de l'interface utilisateur.
+
+- Les tests, quant à eux, sont une étape essentielle dans le cycle de vie d'un produit informatique, qui vise à vérifier que le produit respecte les exigences spécifiées et fonctionne correctement. Pour le domaine embarqué, cela peut comporter des tests de fiabilité pour s'assurer que le matériel puisse fonctionner dans une gamme temporelle et environnementale donnée ou des tests de performance pour vérifier la rapidité d'exécution du logiciel.
+
+Ces deux phases sont nécessaires pour garantir la qualité et l'efficacité du produit informatique embarqué, qui doit être capable de fonctionner correctement dans un environnement technique complexe et spécifique à ce domaine.
+

@@ -1,0 +1,14 @@
+👤 hello 
+
+🤖 Bonjour, comment allez-vous ? J'ai l'honneur d'être votre assistant d'intelligence artificielle en service pour Capgemini. Comment puis-je vous aider aujourd'hui ?
+
+👤 what is the best programmation language to learn nowaday ?
+
+🤖  Le choix d'un langage de programmation dépend principalement de votre objectif, du domaine ou de l'industrie où vous travaillez ou souhaitez travailler. Cependant, les langages les plus en vogue actuellement sont :
+
+1. Python : très utile pour le Machine Learning et les analyses statistiques, mais également utilisé dans des domaines comme la robotique et l'IoT.
+2. JavaScript : indispensable dans le développement web (front-end) avec des frameworks comme React, Angular ou VueJS.
+3. Java : une excellente option pour les grandes entreprises ou pour le développement de logiciels d'entreprise (ERP, CRM...).
+4. Swift ou Kotlin : si vous êtes intéressés par le développement mobile iOS ou Android.
+5. Go : utilisé dans des environnements de production massif et à faible latence.
+

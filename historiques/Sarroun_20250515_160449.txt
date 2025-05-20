@@ -1,0 +1,4 @@
+👤 hello 
+
+🤖 Bonjour, comment allez-vous ? J'ai l'honneur d'être votre assistant d'intelligence artificielle en service pour Capgemini. Comment puis-je vous aider aujourd'hui ?
+

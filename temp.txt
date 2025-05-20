@@ -1,0 +1,17 @@
+Ce dataset est utilisé dans la recherche éco-économique, conçu pour l'analyse de la durabilité sectorielle à l'échelle mondiale. Ce dataset couvre 163 secteurs répartis sur 49 régions de 1995 à 2022, surmontant les problèmes d'inaccessibilité des données. 
+
+The dataset inclus les facteurs suivants
+
+Region (Categorical feature)
+Sector (Categorical feature)
+Value Added [M.EUR] (Numerical feature)
+Employment [1000 p.] (Numerical feature)
+GHG emissions [kg CO2 eq.] (Numerical feature)
+Energy Carrier Net Total [TJ] (Numerical feature)
+Year (Numerical feature)
+
+L'objectif de ce projet est :
+* Nettoyer le dataset
+*Effectuer le clustering des données en comparant les performances de différents algorithmes (Kmeans, CAH, DBSCAN, GMM…)
+* Prédire "GHG emissions" en utilisant les méthodes ensemblistes (Randomforest, xgboost, adaboost…)
+* Développer un site web avec la technologie de votre choix (Django, Flask, FastAPI, ...) permettant d'effectuer des prédictions en utilisant le modèle optimal sélectionné.
